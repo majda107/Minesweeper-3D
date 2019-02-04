@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{A09DF915-7822-4A76-99DF-F3A6E2E1CE26}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Minesweeper3D</RootNamespace>
+    <AssemblyName>Minesweeper3D</AssemblyName>
+    <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ExternalConsole>true</ExternalConsole>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ExternalConsole>true</ExternalConsole>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="OpenTK">
+      <HintPath>..\packages\OpenTK.3.0.1\lib\net20\OpenTK.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Drawing" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="GameData.cs" />
+    <Compile Include="Graphics3D.cs" />
+    <Compile Include="Map.cs" />
+    <Compile Include="Menu.cs" />
+    <Compile Include="MenuItem.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Game.cs" />
+    <Compile Include="Cell.cs" />
+    <Compile Include="SoundSystem.cs" />
+    <Compile Include="StaticLists\StaticMenuDatabase.cs" />
+    <Compile Include="StaticLists\StaticSoundList.cs" />
+    <Compile Include="StaticLists\StaticTextureList.cs" />
+    <Compile Include="Textures.cs" />
+    <Compile Include="Vector2D.cs" />
+    <Compile Include="VectorXYZ.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="OpenTK.dll.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Sounds\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Textures\0.bmp" />
+    <Content Include="Textures\1.bmp" />
+    <Content Include="Textures\1mine.bmp" />
+    <Content Include="Textures\2.bmp" />
+    <Content Include="Textures\2mine.bmp" />
+    <Content Include="Textures\3.bmp" />
+    <Content Include="Textures\3mine.bmp" />
+    <Content Include="Textures\4.bmp" />
+    <Content Include="Textures\4mine.bmp" />
+    <Content Include="Textures\5.bmp" />
+    <Content Include="Textures\5mine.bmp" />
+    <Content Include="Textures\6.bmp" />
+    <Content Include="Textures\6mine.bmp" />
+    <Content Include="Textures\7.bmp" />
+    <Content Include="Textures\7mine.bmp" />
+    <Content Include="Textures\8.bmp" />
+    <Content Include="Textures\8mine.bmp" />
+    <Content Include="Textures\9.bmp" />
+    <Content Include="Textures\credits.bmp" />
+    <Content Include="Textures\custom.bmp" />
+    <Content Include="Textures\easy.bmp" />
+    <Content Include="Textures\exit.bmp" />
+    <Content Include="Textures\flag.bmp" />
+    <Content Include="Textures\hard.bmp" />
+    <Content Include="Textures\help.bmp" />
+    <Content Include="Textures\helpscreen.bmp" />
+    <Content Include="Textures\insane.bmp" />
+    <Content Include="Textures\medium.bmp" />
+    <Content Include="Textures\menu.bmp" />
+    <Content Include="Textures\mine.bmp" />
+    <Content Include="Textures\play.bmp" />
+    <Content Include="Textures\questionmark.bmp" />
+    <Content Include="Textures\resume.bmp" />
+    <Content Include="Textures\seconds.bmp" />
+    <Content Include="Textures\time.bmp" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+</Project>

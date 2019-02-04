@@ -1,0 +1,3 @@
+My first small OpenGL project done as school homework...
+
+Haven´t polished much yet.

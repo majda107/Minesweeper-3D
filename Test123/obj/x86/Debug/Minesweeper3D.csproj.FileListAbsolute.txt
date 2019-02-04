@@ -1,0 +1,40 @@
+C:\Users\mariantrpkos\source\repos\Minesweeper3D\Test123\bin\Debug\Test123.exe
+C:\Users\mariantrpkos\source\repos\Minesweeper3D\Test123\bin\Debug\Test123.pdb
+C:\Users\mariantrpkos\source\repos\Minesweeper3D\Test123\bin\Debug\OpenTK.dll
+C:\Users\mariantrpkos\source\repos\Minesweeper3D\Test123\bin\Debug\OpenTK.pdb
+C:\Users\mariantrpkos\source\repos\Minesweeper3D\Test123\bin\Debug\OpenTK.xml
+C:\Users\mariantrpkos\source\repos\Minesweeper3D\Test123\obj\x86\Debug\Minesweeper3D.csprojAssemblyReference.cache
+C:\Users\mariantrpkos\source\repos\Minesweeper3D\Test123\obj\x86\Debug\Minesweeper3D.csproj.CoreCompileInputs.cache
+C:\Users\mariantrpkos\source\repos\Minesweeper3D\Test123\obj\x86\Debug\Minesweeper3D.csproj.CopyComplete
+C:\Users\mariantrpkos\source\repos\Minesweeper3D\Test123\obj\x86\Debug\Test123.exe
+C:\Users\mariantrpkos\source\repos\Minesweeper3D\Test123\obj\x86\Debug\Test123.pdb
+C:\Users\mariantrpkos\source\repos\Minesweeper3D\Minesweeper3D\bin\Debug\Test123.exe
+C:\Users\mariantrpkos\source\repos\Minesweeper3D\Minesweeper3D\bin\Debug\Test123.pdb
+C:\Users\mariantrpkos\source\repos\Minesweeper3D\Minesweeper3D\bin\Debug\OpenTK.dll
+C:\Users\mariantrpkos\source\repos\Minesweeper3D\Minesweeper3D\bin\Debug\OpenTK.pdb
+C:\Users\mariantrpkos\source\repos\Minesweeper3D\Minesweeper3D\bin\Debug\OpenTK.xml
+C:\Users\mariantrpkos\source\repos\Minesweeper3D\Minesweeper3D\obj\x86\Debug\Minesweeper3D.csprojAssemblyReference.cache
+C:\Users\mariantrpkos\source\repos\Minesweeper3D\Minesweeper3D\obj\x86\Debug\Minesweeper3D.csproj.CoreCompileInputs.cache
+C:\Users\mariantrpkos\source\repos\Minesweeper3D\Minesweeper3D\obj\x86\Debug\Minesweeper3D.csproj.CopyComplete
+C:\Users\mariantrpkos\source\repos\Minesweeper3D\Minesweeper3D\obj\x86\Debug\Test123.exe
+C:\Users\mariantrpkos\source\repos\Minesweeper3D\Minesweeper3D\obj\x86\Debug\Test123.pdb
+C:\Users\ASUS PC\Desktop\Minesweeper3D\Test123\bin\Debug\OpenTK.dll
+C:\Users\ASUS PC\Desktop\Minesweeper3D\Test123\bin\Debug\OpenTK.pdb
+C:\Users\ASUS PC\Desktop\Minesweeper3D\Test123\bin\Debug\OpenTK.xml
+C:\Users\ASUS PC\Desktop\Minesweeper3D\Test123\obj\x86\Debug\Minesweeper3D.csprojAssemblyReference.cache
+C:\Users\ASUS PC\Desktop\Minesweeper3D\Test123\obj\x86\Debug\Minesweeper3D.csproj.CoreCompileInputs.cache
+C:\Users\ASUS PC\Desktop\Minesweeper3D\Test123\obj\x86\Debug\Minesweeper3D.csproj.CopyComplete
+C:\Users\ASUS PC\Desktop\Minesweeper3D\Test123\bin\Debug\Minesweeper3D.exe
+C:\Users\ASUS PC\Desktop\Minesweeper3D\Test123\bin\Debug\Minesweeper3D.pdb
+C:\Users\ASUS PC\Desktop\Minesweeper3D\Test123\obj\x86\Debug\Minesweeper3D.exe
+C:\Users\ASUS PC\Desktop\Minesweeper3D\Test123\obj\x86\Debug\Minesweeper3D.pdb
+C:\Users\Marián Trpkoš\Desktop\Minesweeper3D\Test123\bin\Debug\Minesweeper3D.exe
+C:\Users\Marián Trpkoš\Desktop\Minesweeper3D\Test123\bin\Debug\Minesweeper3D.pdb
+C:\Users\Marián Trpkoš\Desktop\Minesweeper3D\Test123\bin\Debug\OpenTK.dll
+C:\Users\Marián Trpkoš\Desktop\Minesweeper3D\Test123\bin\Debug\OpenTK.pdb
+C:\Users\Marián Trpkoš\Desktop\Minesweeper3D\Test123\bin\Debug\OpenTK.xml
+C:\Users\Marián Trpkoš\Desktop\Minesweeper3D\Test123\obj\x86\Debug\Minesweeper3D.csprojAssemblyReference.cache
+C:\Users\Marián Trpkoš\Desktop\Minesweeper3D\Test123\obj\x86\Debug\Minesweeper3D.csproj.CoreCompileInputs.cache
+C:\Users\Marián Trpkoš\Desktop\Minesweeper3D\Test123\obj\x86\Debug\Minesweeper3D.csproj.CopyComplete
+C:\Users\Marián Trpkoš\Desktop\Minesweeper3D\Test123\obj\x86\Debug\Minesweeper3D.exe
+C:\Users\Marián Trpkoš\Desktop\Minesweeper3D\Test123\obj\x86\Debug\Minesweeper3D.pdb
